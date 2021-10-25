@@ -1,2 +1,2 @@
 # python-inferential-statistics
-This repository contains python scripts that highlight application of inferential statistics.
+This repository contains important concepts of data sampling and hypothesis testing
