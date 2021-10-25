@@ -1,2 +1,2 @@
-# notebook-data-science
-This notebook contains my journey to mastering Data Science
+# python-statistics
+This repository contains python scripts that highlight application of inferential statistics.
