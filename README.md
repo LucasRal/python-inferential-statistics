@@ -1,2 +1,2 @@
 # notebook-data-science
-This notebook contains journey to mastering Data Science
+This notebook contains my journey to mastering Data Science
